@@ -1,6 +1,8 @@
 # sinopia.docker
 
-docker image for running private NPM repository
+:package: npm private registry (with sinopia) docker image
+
+Current status: Work in Progress
 
 ## Usage
 
